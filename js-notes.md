@@ -1,4 +1,4 @@
-Reading Notes from You Don't Know Javascript Yet. 
+## Reading Notes from You Don't Know Javascript Yet. 
 
 Transpilation and polyfilling are two highly effective techniques for addressing that gap between code 
 that uses the latest stable features in the language and the old environments a site or application needs 
