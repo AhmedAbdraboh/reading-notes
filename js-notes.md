@@ -17,3 +17,5 @@ Step back and consider the entire flow of a JS source program:
 
 I think it's clear that in spirit, if not in practice, **JS is a compiled language.**
 
+Why strict mode? Strict mode shouldn't be thought of as a restriction on what you can't do, but rather as a guide to the best way to do things so that the JS engine has the best chance of optimizing and efficiently running the code. Most JS code is worked on by teams of developers, so the strict-ness of strict mode (along with tooling like linters!) often helps collaboration on code by avoiding some of the more problematic mistakes that slip by in non-strict mode.
+
